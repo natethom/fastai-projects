@@ -10,6 +10,6 @@ Also, be sure to checkout the fastai courses for deep learning and machine learn
 
 project folder -> kaggle competition name
 
-dogBreeds -> dog-breed-identification
-dogsCats -> dogs-vs-cats
-seedlings -> plant-seedlings-classification
+dogBreeds -> dog-breed-identification | 
+dogsCats -> dogs-vs-cats | 
+seedlings -> plant-seedlings-classification | 
